@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meakay
-- 👀 I’m interested in pixel art & music
+- 👀 I’m interested in electro guitar & writing
 - 🌱 I’m currently learn python & javascript & html & css
 - 💞️ I’m looking to collaborate on nothing
 - 📫 makif242106@gmail.com
