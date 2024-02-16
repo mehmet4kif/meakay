@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meakay
-- 👀 I’m interested in electro guitar & writing
+- 👀 I’m interested in cyber security & web dev & flutter
 - 🌱 I’m currently learn python & javascript & html & css
 - 📫 makif242106@gmail.com
 
